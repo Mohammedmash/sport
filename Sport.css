@@ -1,0 +1,111 @@
+
+h1{border: 2px solid orange}
+
+h1{
+	color: orange;
+}
+
+p{
+	color: white;
+}
+
+#p1{
+	color: orange;
+}
+
+
+#pw{
+
+color:#cc7a00;
+
+}
+#hf{
+
+	background-color: orange
+}
+
+
+body{
+
+	background:url(https://wallpaperstock.net/wallpapers/thumbs1/35060wide.jpg);
+
+background-repeat: no-repeat;
+
+background-size: cover;
+	
+	}
+
+div label {
+
+	color: red;
+}
+
+.lab{background-color: black}
+.put{background-color: white}
+
+
+li{color:#cc7a00;}
+
+#hm{color:orange;}
+
+th{
+
+	color:white;
+}
+
+td{
+
+	color:orange;
+}
+
+#p1:first-letter{
+
+	color:yellow;
+	font-size:50px;
+}
+
+input{border: 2px solid red}
+
+label{
+
+	color: ;
+}
+
+input[type="text"]{
+
+	background-color:gray ;
+}
+
+.put{
+
+	background-color: gray;
+}
+
+h2{
+
+	color:blue ;
+}
+
+#hi{
+
+	color:purple;
+}
+
+h1:hover{
+
+	color:red;
+}
+
+.lab{
+	text-transform: uppercase;
+}
+
+a:visited{
+
+	color: white;
+}
+
+#bein{
+
+	color:pink;
+}
